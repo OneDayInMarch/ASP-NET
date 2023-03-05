@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>欢迎使用在线商品销售系统</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 2%;
+            height: 100%;
+        }
+        .auto-style2 {
+            width: 96%;
+            height: 100%;
+        }
+        .auto-style3 {
+            width: 1100px;
+        }
+    </style>
+</head>
+<body style="text-align:center;border-collapse: collapse;padding: 0px;margin:0px auto;width:1100px;">
+    <form id="form1" runat="server">
+    <div style="text-align:center">
+        <table border="0" style="text-align:center;" >
+            <tr>
+                <td colspan="3" class="auto-style3">
+                    <img src="images/top.jpg" style="width: 100%;height:130px" alt="" />
+                </td>
+            </tr>
+            <tr>
+                <td style="background-image: url('images/edges.jpg');" class="auto-style1">
+                </td>
+                <td class="auto-style2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td style="background-image: url('images/edges.jpg');" class="auto-style1">
+                </td>
+            </tr>
+            <tr >
+                <td colspan="3">
+                    <img src="images/bottom.jpg" style="width: 100%;height:90px" alt=""/></td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>
