@@ -1,0 +1,23 @@
+﻿   *{font-size :14px;}
+        body{background :#eeeae9;}
+        #container{width:1000px;height :600px;margin :200px auto;}
+        #left{float :left;
+        }
+        #left img{height: 310px; width: 315px;margin-top: 83px; border :1px solid #f599ca       }
+        #content{border :1px solid #eeeae9;width:420px;height:310px;margin-left :30px;background:url("../images/ZC.jpg");float :right ;margin-right :20px;margin-top :83px;}
+        #head{height:45px;}
+        #top1{float :left;width:198px;
+}
+        #top2{text-align :center;padding-top:18px;font-size :16px;float :left;
+    width: 87px;
+}
+
+        #con{height :280px;}
+        #zhuche{height :200px;margin-left :20px;border-top:1px solid #808080; }       
+        #zhuche tr td.t1{text-align :center ;}
+        #zhuche tr td.auto-style1{width: 400px;height :45px;}
+       #Button1{width: 62px;margin-left: 89px;margin-top :10px; margin-bottom: 3px;color :#E20076;background :white;height :25px;}
+       
+        #Button2{width: 62px; height :25px;margin-left: 15px;margin-top :10px; margin-bottom: 3px;color :#E20076;background :white;}
+        #RadioButton2{margin-left :8px;}
+            #Button4{width: 82px; height :25px;margin-left: 15px;margin-top :10px; margin-bottom: 3px;color :#E20076;background :white;}

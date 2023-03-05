@@ -1,0 +1,56 @@
+
+      *{margin:0px 1px 0px 0px;padding :0px;         }
+        #Top{height :149px;background:url("../images/headbg.jpg");}
+        #Top2{width :1000px;height :30px;line-height :30px;margin :0px auto ;font-size :13px;font-family :"Î¢ÈíÑÅºÚ";color :#666;}
+        #Top2 span{color :#E20076;font-weight :bold ;padding :0px 4px;}
+        #Header{width:1000px;height :70px;margin :0px auto ;}
+        #banner{width :221px;height :44px;float :left ;padding-top:14px;}
+        #nav{height :40px;width :1000px;margin :4px auto ;}
+       #nav ul{  list-style :none ; }
+       #nav ul li{float:left ;  width:100px; height :40px; font-size :14px; text-align :center ; color:#ff6a00;border-right  :1px solid #f6e4f0}
+       #nav ul li a{position :relative ; top :12px;  }
+       a.nav_href{  text-decoration:none;  font-size :12px; color:white;  }
+       a.nav_href:hover { color :#ff0000; text-decoration:underline ;  }
+       #search{height :40px;width :1000px;margin :14px auto ;border :1px solid #eeeae9;padding-top :12px;}
+       #search label.label_1{color :#E20076;font-family :"Î¢ÈíÑÅºÚ";font-size :14px;font-weight :bold ;  margin-left:10px;}
+        #search label.label_2{color :#E20076;font-family :"Î¢ÈíÑÅºÚ";font-size :14px;font-weight :bold ;  margin-left:10px;}
+        #content{width :1000px;height :800px;margin :0px auto;position:relative ;}
+
+         #left{width :480px;height :314px;position:absolute  ;left :0px;top :10px;padding:0px 20px;background :url("../images/vl.jpg") no-repeat ; }
+         #left ul.select_but{border-top:1px dotted #c9c9c9;border-bottom:1px solid #eee;height :32px;}
+         #left ul.select_but li{list-style-type :none ;height :32px;width:84px;float :left ;font-size :14px;
+                               font-family: "Î¢ÈíÑÅºÚ";text-align :center ;line-height :32px;background :url("../images/leftbg01.jpg")no-repeat right  bottom ;
+        }
+        #left ul.select_but li.hover{background-image :url("../images/leftbg02.jpg");}
+         #left .select_con{height :274px;margin-top :5px;overflow :hidden ;}
+         #left .select_content{height :274px;}
+         ul.news_1 li{font-size :14px;color :#666;font-family :"Î¢ÈíÑÅºÚ";line-height :35px;text-indent :20px;background :url("../images/point.png") no-repeat 6px 15px; }
+         ul.news_1 li a{color :#000;text-decoration:none ;}
+         ul.news_1 li a:hover {color :#E20076;}
+         ul.news_1 li  span{color :#000;float :right ;}
+
+        #Adv{width :480px;height :314px;position:relative ;left :520px;top :10px;}
+        #Adv .ImgList{width :100%;height :314px;position :absolute ;left :0px;top:0px;}
+        #Adv ul.button{width :188px;height :20px;position :absolute ;left :55%;bottom :12px;display :inline-block ;}
+        #Adv ul.button li{width :30px;height :15px;background :#E20076;float :left ;margin:0px 5px;border :1px dotted #fff;list-style-type:none;   }
+        #Adv ul.button li.hover{background :#fff;}
+     
+        #c_center{height :80px;margin-top :20px;background:url("../images/c_bbg.jpg");}
+
+        #bom{height :324px;float :left ;position:relative ;}
+        #bom .bom_left{border :1px solid #eeeae9;width:283px;position:absolute;left :32px;top :48px; }
+        #bom .bom_right{border :1px solid #eeeae9;position :absolute ;left :355px;top :10px;margin :0px auto ;width:630px;height :324px;}
+           
+       #bom .b_r_top{width :221px;height :44px;float :left ;padding-top:14px;}
+        #bom .b_r_con{clear :left ;}
+        #bom .b_r_con ul{list-style :none ;}
+        ul.jiqiao li{font-size :14px;color :#666;font-family :"Î¢ÈíÑÅºÚ";line-height :35px;text-indent :30px;background :url("../images/point.png") no-repeat 6px 15px; }
+        ul.jiqiao li a{color :#000;text-decoration:none ;}
+        ul.jiqiao li a:hover {color :#E20076;}
+     
+         .select_1 {             width: 111px;         }
+         #button_1 {             width: 84px;         }
+        #bom_top{height :149px;background:url("../images/b_bg.jpg");}
+         #bom_top .bom_con{width:1000px;height :70px;margin :10px auto ; text-align :center  ;padding-top :60px;}
+         #bom_top .bom_con span{}
+ 

@@ -1,0 +1,25 @@
+﻿
+ *{font-size :14px;}
+        body{background :#eeeae9;}
+        #container{width:1000px;height :500px;margin :200px auto;}
+        #left{float :left;
+        }
+        #left img{height: 310px; width: 315px;margin-top: 83px; border :1px solid #f599ca       }
+        #content{border :1px solid #eeeae9;width:600px;height:500px;margin-left :30px;background:url("../images/ZC.jpg");float :right ;margin-right :20px;}
+        #head{height:45px;}
+        #top1{float :left ;width:221px;}
+        #top2{text-align :center ;padding-top:18px;font-size :20px;float :left ;}
+
+        #con{height :450px;}
+        #zhuche{height :450px;margin-left :20px;border-top:1px solid #808080; }       
+        #zhuche.tr{height :35px;}
+        #zhuche tr td.auto-stringstyle{text-align :center ;width:60px;}
+        #zhuche tr td.auto-style1{width: 180px;height :25px;}
+        #Button1{width: 72px;height :30px; margin-left: 89px;margin-top :10px; margin-bottom: 3px;color :#E20076;background :white;}
+        #Button2{width: 72px; height :30px;margin-left: 15px;margin-top :10px; margin-bottom: 3px;color :#E20076;background :white;}
+        
+        #DropDownList1 {width:140px;}
+        #DropDownList2 {width:120px;}
+        #DropDownList3 {width:120px;}
+        #DropDownList4 {width:120px;}
+        #DropDownList5 {width:120px;}
